@@ -16,7 +16,7 @@ public class Exerc7App {
     public static void main(String[] args) {
         try
         {
-            Exerc7 exe = new Exerc7(4, 3);
+            Exerc7 exe = new Exerc7(20, 10);
             System.out.print(exe);
         }catch(Exception ex)
         {
