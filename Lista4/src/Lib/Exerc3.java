@@ -9,6 +9,7 @@ import java.text.NumberFormat;
  *
  * @author JoãoM
  */
+
 public class Exerc3 {    
     private double _Salario = 0;
     private double _Comissao = 0;    
