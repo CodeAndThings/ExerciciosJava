@@ -16,7 +16,7 @@ public class Exerc9App {
     public static void main(String[] args) {
         try
         {
-            Exerc9 exe = new Exerc9(5, 4);
+            Exerc9 exe = new Exerc9(8, 6);
             System.out.print(exe);
         }catch(Exception ex)
         {

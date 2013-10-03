@@ -18,7 +18,7 @@ public class Exerc9 {
             throw new Exception("O comprimento dos lados não pode ser zero.");
         if (NumeroDeLados <= 0)
             throw new Exception("O número de lados não pode ser zero.");
-        
+                        
         _ComprimentoDosLados = ComprimentoDosLados;
         _NumeroDeLados = NumeroDeLados;
     }
