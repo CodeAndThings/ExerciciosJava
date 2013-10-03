@@ -26,6 +26,7 @@ public class Exerc9 {
     @Override
     public String toString()
     {
+        
         //Todo o polígono regular pode ser dividido em triangulos
         //A area do polígodo regular é calculada por A = p * a onde p é o semiperímetro e a é a apótema.
         //O semiperimetro é dado pela soma de todos os lados. A fórmula do semiperimetro é p = nlados * comprimentodolado / 2
