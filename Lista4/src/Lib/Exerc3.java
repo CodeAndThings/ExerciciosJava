@@ -27,7 +27,7 @@ public class Exerc3 {
         if (TotalDeVendas <= 0)
             throw new Exception("Salário não pode ser zero.");
         
-        if (TotalDeVendas <= 0)
+        if (TaxaDeComissao <= 0)
             throw new Exception("Taxa de Comissao não pode ser zero.");
         
         _Comissao = (TotalDeVendas * (TaxaDeComissao / 100));
