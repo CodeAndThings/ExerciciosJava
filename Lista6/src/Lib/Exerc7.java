@@ -19,7 +19,7 @@ public class Exerc7 {
     private NumberFormat _FormatoDeMoedaLocal;
     
     public Exerc7(double Altura, double Comprimento) throws Exception
-    {
+    {        
         if (Altura <= 0)
             throw new Exception("O sistema não permite altura igual a zero");
         
